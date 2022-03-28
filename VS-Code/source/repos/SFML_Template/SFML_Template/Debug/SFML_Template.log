@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\ABC\source\repos\SFML_Template\SFML_Template\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ABC\source\repos\SFML_Template\SFML_Template\main.cpp(41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_Template.vcxproj -> C:\Users\ABC\source\repos\SFML_Template\Debug\SFML_Template.exe
